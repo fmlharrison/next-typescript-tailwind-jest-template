@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Greetings should render the heading 1`] = `
+<h1
+  class="font-sans text-3xl text-center"
+  data-testid="greeting"
+>
+  Hello Next.js with 
+  Jest and React Testing Library
+   👋
+</h1>
+`;
