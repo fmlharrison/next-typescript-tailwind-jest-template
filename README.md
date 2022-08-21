@@ -7,15 +7,15 @@ This is a really simple project template that can be used to setup a project usi
 Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
 
 ```bash
-npx create-next-app --example https://github.com/fmlharrison/next-typescript-tailwind-jest-template.git <YOUR_APP_NAME>
+npx create-next-app --example https://github.com/fmlharrison/next-typescript-tailwind-jest-template <YOUR_APP_NAME>
 ```
 
 ```bash
-yarn create next-app --example https://github.com/fmlharrison/next-typescript-tailwind-jest-template.git <YOUR_APP_NAME>
+yarn create next-app --example https://github.com/fmlharrison/next-typescript-tailwind-jest-template <YOUR_APP_NAME>
 ```
 
 ```bash
-pnpm create next-app --example https://github.com/fmlharrison/next-typescript-tailwind-jest-template.git <YOUR_APP_NAME>
+pnpm create next-app --example https://github.com/fmlharrison/next-typescript-tailwind-jest-template <YOUR_APP_NAME>
 ```
 
 ## Notes
